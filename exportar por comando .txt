@@ -1,0 +1,9 @@
+estar com o terminar na pasta do arquivo que for importar.
+
+exportar por comando 
+mysqldump -u root empresa > empresa2.sql
+
+importar por comando 
+criar o banco;
+acessar o banco;
+usar o comando source <nome do arquivo>
